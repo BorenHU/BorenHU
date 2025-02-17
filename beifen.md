@@ -5,6 +5,23 @@
 - 🚀个人博客：⚽Jayfar[博客](https://jayfar.top/)、🥚Justnav [导航](https://justnav.us.kg/)
 - 🌏社交网站：有需要在更新...
 
+# 🎫 projects
+- 技能补充
+  - [🚀]待更新...
+- 项目开发
+  - [✨]待更新...
+- 基础组件开发（框架篇）
+  - [✨]待更新...
+- 技术栈扩展学习
+
+  - [🧨]待更新...
+# 💻Recent Blog
+
+<!-- BLOG-POST-LIST:START -->
+- 
+  <!-- BLOG-POST-LIST:END -->
+
+
 # 🛠 Tech Stack
 
 > skills
@@ -34,6 +51,3 @@
 
 
 # 🌱Social
-
-
-
