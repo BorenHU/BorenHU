@@ -1,4 +1,24 @@
-# 🚀 about
+[<img src="./assets/hello.png">](https://www.liushen.fun)
+
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="./assets/image.gif" width="30px" alt=""><br>
+<a href="">
+  <img align="center" alt="个人主页" width="22px" src="./assets/icon/home.svg" />
+</a>
+  <a href="mailto:a1231231233@foxmail.com">
+  <img align="center" alt="邮箱" width="22px" src="./assets/icon/email.svg" />
+</a>
+<a href="https://jayfar.top/">
+  <img align="center" alt="个人博客" width="22px" src="./assets/icon/blog.svg" />
+</a>
+<a href="https://gitee.com/BorenHU">
+  <img align="center" alt="gitee首页" width="22px" src="./assets/icon/gitee.svg" />
+</a>
+<a href="https://github.com/BorenHU">
+  <img align="center" alt="github主页" width="22px" src="./assets/icon/github.svg" />
+</a>
+
+# 🚀 About
+
 
 - 💬 A calm sea does not make an excellent sailor.
 - 📫 a1231231233@foxmail.com
@@ -29,11 +49,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
-
-# 🌱Social
-
-
-
